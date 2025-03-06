@@ -6,4 +6,7 @@
         System.out.printf("and");
         System.out.printf("welcome!");
         System.out.printf("larry.");
+        // comment
+        // second comment
+        // third comment
     }
